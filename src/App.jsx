@@ -8,7 +8,6 @@ import AzkarDetails from "./components/AzkarDetails";
 import ContactForm from "./components/ContactForm";
 import { Route, Switch, Redirect } from "react-router-dom";
 import Home from "./components/Home";
-import Info from "./components/Info";
 import MySebha from "./components/MySebha";
 import NotFound from "./components/NotFound";
 

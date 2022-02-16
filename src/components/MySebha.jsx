@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Azkar from "./Azkar";
 import Zikr from "./Zikr";
 import Sebha from "./Sebha";
-import childOfMysebha from "./childOfMysebha";
 import NewZikrForm from "./NewZikrForm";
 class MySebha extends React.Component {
   state = {

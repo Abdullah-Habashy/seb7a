@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+
+//template input for input field to avoid repetition
 const Input = ({ name, label, value, error, onChange }) => {
   return (
     <div className="form-group">

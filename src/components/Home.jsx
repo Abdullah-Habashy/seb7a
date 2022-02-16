@@ -11,6 +11,7 @@ class Home extends React.Component {
     render() { 
         return <div>
            <span style = {{fontSize: 40}}className='badge badge-primary'>Home</span>
+           {/* placeholder for the component */}
         </div>;
     }
 }
